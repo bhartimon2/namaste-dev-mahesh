@@ -1,0 +1,25 @@
+{
+  "name": "namaste-dev-mahesh",
+  "version": "1.0.0",
+  "description": "this is namaste react by mahesh",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhartimon2/namaste-dev-mahesh.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhartimon2/namaste-dev-mahesh/issues"
+  },
+  "homepage": "https://github.com/bhartimon2/namaste-dev-mahesh#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
